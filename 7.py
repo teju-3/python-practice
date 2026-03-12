@@ -62,4 +62,4 @@ details={
 }
 print(details)
 print(details.get("freind2").get("City"))
-print(details["freind1"]["City"])
+print(details["freind1"][ "City"])
