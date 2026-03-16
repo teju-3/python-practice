@@ -76,7 +76,7 @@ match day:
     case _:
         print("Just another weekday.")
 
-#HOMEWORK
+#HOMEWORK.
 
 age=int(input("Enter your age:"))
 if(age<5):
