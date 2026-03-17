@@ -58,7 +58,7 @@ while available_seats > 0:
 
 print("All seats are booked!")
 
-#Nested while Loops
+#Nested while Loops.
 snacks_available = 3
 money = 10
 
